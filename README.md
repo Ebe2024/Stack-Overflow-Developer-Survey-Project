@@ -5,7 +5,7 @@ The data used in this project was taken from the 2023 Stack Overflow Developer S
 
 ## Guiding questions:
 
-* At what companies do developers get the paid the most?
+* What company size pays developers the most? 
 * How much does remote working matter to employees?
 * What is the most popular method of learning to code?
 * Are you more likely to get a job as a developer if you have a master's degree?
